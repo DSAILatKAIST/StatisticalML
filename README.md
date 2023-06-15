@@ -1,4 +1,4 @@
-# Statistical Machine Learning @ KAIST ISysE
+# Statistical Machine Learning @ KAIST IE343
 
 ## Course Information
 **Instructor:** Chanyoung Park (cy.park@kaist.ac.kr)  
