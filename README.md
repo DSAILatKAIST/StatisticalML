@@ -35,15 +35,15 @@ and 12 columns without target column.
 Busan. It contains 7373 daycare centers and related information on the daycare center.
 
 ## Winning Solutions
-- l-st place
-- 2-nd place
-- 4-th place
-- 5-th place
-- 7-th place
-- 8-th place
-- 11-th place
-- 14-th place
-- 16-th place
-- 17-th place
-- 18-th place
-- 20-th place
+- [◆lst place◆ ](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/1st-place-solution.ipynb)
+- [2nd place](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/2nd-place-solution.ipynb)
+- [4th place](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/4th-place-solution.ipynb)
+- [5th place](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/5th-place-solution.ipynb)
+- [7th place](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/7th-place-solution.ipynb)
+- [8th place](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/8th-place-solution.ipynb)
+- [11th place](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/11th-place-solution.ipynb)
+- [14th place](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/14th-place-solution.ipynb)
+- [16th place](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/16th-place-solution.ipynb)
+- [17th place](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/17th-place-solution.ipynb)
+- [18th place](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/18th-place-solution.ipynb)
+- [20th place](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/20th-place-solution.ipynb)
