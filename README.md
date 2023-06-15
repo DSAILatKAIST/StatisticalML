@@ -7,7 +7,7 @@
 **TAs:** 
 - Namkyeong Lee (namkyeong96@kaist.ac.kr)
 - Yeonjun In (yeonjun.in@kaist.ac.kr)
-- Jihyung Jung (mjajthh1@kaist.ac.kr)
+- Jihyeong Jung (mjajthh1@kaist.ac.kr)
 
 ## Challenge Objective
 
