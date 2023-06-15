@@ -33,3 +33,17 @@ and 12 columns without target column.
 
 - day_care_center.csv: This contains additional information on the daycare center in Seoul and
 Busan. It contains 7373 daycare centers and related information on the daycare center.
+
+## Winning Solutions
+- lst place
+- 2nd place
+- 4th place
+- 5th place
+- 7th place
+- 8th place
+- 11th place
+- 14th place
+- 16th place
+- 17th place
+- 18th place
+- 20th place
