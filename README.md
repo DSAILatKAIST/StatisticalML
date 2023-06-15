@@ -35,7 +35,7 @@ and 12 columns without target column.
 Busan. It contains 7373 daycare centers and related information on the daycare center.
 
 ## Winning Solutions
-- [◆First place winner◆](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/1st-place-solution.ipynb)
+- [First place winner](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/1st-place-solution.ipynb)
 - [2nd place](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/2nd-place-solution.ipynb)
 - [4th place](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/4th-place-solution.ipynb)
 - [5th place](https://github.com/DSAILatKAIST/StatisticalML/blob/2023-spring/winning-solutions/5th-place-solution.ipynb)
